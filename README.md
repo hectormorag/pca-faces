@@ -5,5 +5,6 @@ This code offer as GUI that implements a visualization of a new 3D model, based 
 
 In order to test the code you can load model1.obj and click process. The GUI will display the options to change the face and create a new 3D model. As shown in the following image. 
 
+![alt text](https://github.com/hectormorag/pca-faces/blob/main/images/gui.png)
 
 
